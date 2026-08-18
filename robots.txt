@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kebudayaan.gunungkidulkab.go.id/sitemap.xml
